@@ -27,6 +27,10 @@ nav a{
     font-size: 22px;
     text-decoration: none;
 }
+nav a:hover{
+    color:#c78c19;
+    text-decoration: underline;
+}
 
 .produtos{
     width: 940px;
@@ -65,4 +69,17 @@ nav a{
     font-weight: bold;
     font-size: 22px;
     margin-top: 10px;
+}
+
+.produtos li:hover{
+    border-color: #c78c19;
+    font-size: 40px;
+}
+.produtos li:active{
+    border-color: aquamarine;
+}
+
+.produtos li:hover h2{
+    font-size: 34px;
+    
 }
