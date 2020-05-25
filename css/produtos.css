@@ -83,3 +83,15 @@ nav a:hover{
     font-size: 34px;
     
 }
+
+footer{
+    text-align: center;
+    background-image: url("../img/bg.jpg");
+    padding: 25px 0;
+}
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 10px 0;
+    
+}
